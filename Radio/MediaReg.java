@@ -90,7 +90,6 @@ public class MediaReg
         return tempMedium;
         
     }
-    
     public String listCDs()
     {
         String returnString = "CD's:" + "\n";
@@ -122,4 +121,7 @@ public class MediaReg
         }
         return returnString;
     }
+    
+
+
 }

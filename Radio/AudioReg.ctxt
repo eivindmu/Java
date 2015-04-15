@@ -6,6 +6,6 @@ comment1.params=tempTrack
 comment1.target=void\ addTrack(AudioTrack)
 comment1.text=\r\n\ \r\n
 comment2.params=
-comment2.target=void\ listMusic()
+comment2.target=java.lang.String\ listMusic()
 comment2.text=\r\n\ \r\n
 numComments=3

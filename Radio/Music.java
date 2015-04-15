@@ -41,6 +41,14 @@ public class Music extends AudioTrack
     /**
      * 
      */
+    public String getInfo()
+    {
+        String text = getArtist() + "  -  "  + super.getTitle() + "\n      " + super.getMedium().getInfo();
+        return text;
+    }
+    /**
+     * 
+     */
     public void changeArtist(String newArtist)
     {
         this.artist = newArtist;

@@ -4,7 +4,7 @@ import java.time.Duration;
 /**
  * Write a description of class Radio here.
  * 
- * @author
+ * @author (your name) Test!
  * @version (a version number or a date)
  */
 public class MusicArchive
@@ -162,7 +162,13 @@ public class MusicArchive
     {
         audioRegister.addTrack(harddrives.addSoundTrack(HDNumber, title, duration, description, filesize));
     }
-    
+    /**
+     * 
+     */
+    public void listMusic()
+    {
+        System.out.println(audioRegister.listMusic());
+    }
     public void listCDs()
     {
         System.out.println(mediaRegister.listCDs());

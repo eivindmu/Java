@@ -17,11 +17,6 @@ public class Medium
     {
         this.title = title;
     }
-    
-    public String getTitle()
-    {
-        return title;
-    }
     /**
      * 
      */
@@ -45,5 +40,19 @@ public class Medium
      */
     public void addSoundeffect(AudioTrack track)
     {
+    }
+    /**
+     * 
+     */
+    public String getTitle()
+    {
+        return title;
+    }
+    /**
+     * 
+     */
+    public String getInfo()
+    {
+        return "";
     }
 }

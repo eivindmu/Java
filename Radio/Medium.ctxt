@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=title
+comment0.target=Medium(java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Medium\r\n
+comment1.params=track
+comment1.target=void\ addMusic(Music)
+comment1.text=\r\n\ \r\n
+comment2.params=track
+comment2.target=void\ addJingle(AudioTrack)
+comment2.text=\r\n
+comment3.params=track
+comment3.target=void\ addNews(AudioTrack)
+comment3.text=\r\n\ \r\n
+comment4.params=track
+comment4.target=void\ addSoundeffect(AudioTrack)
+comment4.text=\r\n\ \r\n
+comment5.params=
+comment5.target=java.lang.String\ getTitle()
+comment5.text=\r\n\ \r\n
+comment6.params=
+comment6.target=java.lang.String\ getInfo()
+comment6.text=\r\n\ \r\n
+numComments=7

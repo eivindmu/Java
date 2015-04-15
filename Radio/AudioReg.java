@@ -27,15 +27,19 @@ public class AudioReg
     /**
      * 
      */
-    public void listMusic()
+    public String listMusic()
     {
+        String tempString = "";
         for(AudioTrack track : tracks)
         {
             if(track instanceof Music)
             {
-                System.out.println("True");
+                String trackInfo = track.getInfo();
+                
+                tempString = tempString + trackInfo + ".\n";
             }
         }
+        return tempString;
     }
 
 }

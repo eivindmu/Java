@@ -30,4 +30,12 @@ public class Harddrive extends Medium
     {
         return (name + ":\\");
     }
+    /**
+     * 
+     */
+    public String getInfo()
+    {
+        String info = "Harddrive: " + getName();
+        return info;
+    }
 }

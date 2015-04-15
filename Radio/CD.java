@@ -74,4 +74,13 @@ public class CD extends Medium
     {
         this.tracks.add(track);
     }
+    /**
+     * 
+     */
+    public String getInfo()
+    {
+        String info = "CD: ";
+        info += super.getTitle() + ".    Archive Number: " + archiveNumber;
+        return info;
+    }
 }

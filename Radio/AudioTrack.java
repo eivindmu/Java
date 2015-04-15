@@ -61,6 +61,20 @@ public class AudioTrack
     {
         this.duration = newDuration;
     }
+    /**
+     * 
+     */
+    public String getInfo()
+    {
+        return "";
+    }
+    /**
+     * 
+     */
+    public Medium getMedium()
+    {
+        return medium;
+    }
 
 
 }

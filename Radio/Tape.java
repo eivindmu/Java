@@ -65,4 +65,13 @@ public class Tape extends Medium
     {
         this.tracks.add(track);
     }
+    /**
+     * 
+     */
+    public String getInfo()
+    {
+        String info = "Tape: ";
+        info += super.getTitle() + ".    Archive Number: " + archiveNumber;
+        return info;
+    }
 }
