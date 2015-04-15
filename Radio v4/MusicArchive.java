@@ -4,8 +4,8 @@ import java.time.Duration;
 /**
  * Write a description of class Radio here.
  * 
- * @author Eivind er en kjempedust!
- * @version (a version number or a date)
+ * @author Eivind er en kjempedust! Dette er en test!
+ * @version (a version number or a date) Dette er en test!
  */
 public class MusicArchive
 {
