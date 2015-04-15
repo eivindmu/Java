@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=title\ artist\ yearReleased\ recordLabel\ archiveNumber
+comment0.target=CD(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ CD\r\n\ @param\ title\ Title\ of\ the\ album\r\n\ @param\ artist\ Name\ of\ artist\ (if\ the\ CD\ is\ a\ collection\ of\ various\ artist,\ use\ "Various\ Artists"\ as\ name)\r\n\ @param\ yearReleased\ The\ year\ the\ CD\ was\ released\r\n\ @param\ recordLabel\ The\ record\ label\ (ex\ EMI,\ Polygram,\ Sony,\ Warner\ Music\ Group\ etc)\r\n\ @param\ duration\ Total\ duration\ of\ the\ CD\r\n\ @param\ archiveNumber\ Location\ of\ the\ CD\ in\ the\ archive\ (From\ 10001\ to\ 19999)\r\n
+comment1.params=track
+comment1.target=void\ addMusic(Music)
+comment1.text=\r\n\ Adds\ music\ to\ the\ CD\r\n\ @param\ index\ The\ number\ of\ the\ track\ on\ the\ CD\r\n\ @param\ Title\ of\ the\ song\r\n
+comment2.params=track
+comment2.target=void\ addJingle(AudioTrack)
+comment2.text=\r\n\ Adds\ advertising\ jingle\ to\ the\ CD\r\n\ @param\ index\ The\ number\ of\ the\ jingle\ on\ the\ CD\r\n\ @param\ Title\ of\ the\ jingle\r\n
+comment3.params=track
+comment3.target=void\ addNews(AudioTrack)
+comment3.text=\r\n\ Adds\ news\ to\ the\ CD\r\n\ @param\ index\ The\ number\ of\ the\ news\ on\ the\ CD\r\n\ @param\ Title\ of\ the\ news\r\n
+comment4.params=track
+comment4.target=void\ addSoundeffect(AudioTrack)
+comment4.text=\r\n\ Adds\ sound\ effects\ to\ the\ CD\r\n\ @param\ index\ The\ number\ of\ the\ sound\ effect\ on\ the\ CD\r\n\ @param\ Title\ of\ the\ sound\ effect\r\n
+numComments=5

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=title\ duration\ medium
+comment0.target=AudioTrack(java.lang.String,\ java.lang.String,\ Medium)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ AudioTrack\r\n
+comment1.params=title\ duration\ medium\ path\ filesize
+comment1.target=AudioTrack(java.lang.String,\ java.lang.String,\ Medium,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ AudioTrack\r\n
+comment2.params=
+comment2.target=java.lang.String\ getTitle()
+comment2.text=\r\n\ \r\n
+comment3.params=newTitle
+comment3.target=void\ changeTitle(java.lang.String)
+comment3.text=\r\n\ \r\n
+comment4.params=
+comment4.target=java.lang.String\ getDuration()
+comment4.text=\r\n\ \r\n
+comment5.params=newDuration
+comment5.target=void\ changeDuration(java.lang.String)
+comment5.text=\r\n\ \r\n
+numComments=6

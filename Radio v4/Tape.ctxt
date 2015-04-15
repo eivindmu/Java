@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=title\ type\ archiveNumber
+comment0.target=Tape(java.lang.String,\ java.lang.String,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Tape\r\n\ @param\ title\ Title\ of\ the\ tape\r\n\ @param\ type\ Type\ of\ the\ tape\ (analog/digital)\r\n\ @param\ archiveNumber\ Location\ of\ the\ tape\ in\ the\ archive\ (From\ 300001\ to\ 39999)\r\n
+comment1.params=track
+comment1.target=void\ addMusic(Music)
+comment1.text=\r\n\ Adds\ music\ to\ the\ tape\r\n\ @param\ index\ The\ number\ of\ the\ track\ on\ the\ CD\r\n\ @param\ Title\ of\ the\ song\r\n
+comment2.params=track
+comment2.target=void\ addJingle(AudioTrack)
+comment2.text=\r\n\ Adds\ advertising\ jingle\ to\ the\ tape\r\n\ @param\ index\ The\ number\ of\ the\ jingle\ on\ the\ CD\r\n\ @param\ Title\ of\ the\ jingle\r\n
+comment3.params=track
+comment3.target=void\ addNews(AudioTrack)
+comment3.text=\r\n\ Adds\ news\ to\ the\ tape\r\n\ @param\ index\ The\ number\ of\ the\ news\ on\ the\ CD\r\n\ @param\ Title\ of\ the\ news\r\n
+comment4.params=track
+comment4.target=void\ addSoundeffect(AudioTrack)
+comment4.text=\r\n\ Adds\ sound\ effects\ to\ the\ tape\r\n\ @param\ index\ The\ number\ of\ the\ sound\ effect\ on\ the\ CD\r\n\ @param\ Title\ of\ the\ sound\ effect\r\n
+numComments=5

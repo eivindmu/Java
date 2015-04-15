@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AudioReg()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Tracks\r\n
+comment1.params=tempTrack
+comment1.target=void\ addTrack(AudioTrack)
+comment1.text=\r\n\ \r\n
+comment2.params=
+comment2.target=void\ listMusic()
+comment2.text=\r\n\ \r\n
+numComments=3
